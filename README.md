@@ -1,38 +1,195 @@
-<h1 align="center">Hi 👋, I'm Pranav Sangeeta Ananda Bankar</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+<!-- ===================================================== -->
+<!-- PRANAV BANKAR | GITHUB PROFILE README                -->
+<!-- ===================================================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbankar45&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbankar45" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavbankar45" alt="pranavbankar45" /></a> </p>
+# Hey, I'm Pranav Bankar 👋
 
-- 🔭 I’m currently working on [Bankar organics](https://github.com/pranavbankar45/Bankar-Organics.com)
+### Java Full Stack Developer · Software Engineer · Problem Solver
 
-- 🌱 I’m currently learning **Java Full Stack And FDA**
+**Building reliable backend systems, modern web applications, and meaningful products.**
 
-- 👯 I’m looking to collaborate on **Java Full Stack Project**
-
-- 🤝 I’m looking for help with **Organization /Startup's**
-
-- 💬 Ask me about **Full Stack Developer And Problem Solver**
-
-- 📫 How to reach me **pranavbankar124@gmail.com**
-
-- ⚡ Fun fact **I Am Content Creator**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pranavbankar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavbankar45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-bankar-7b290624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-bankar-7b290624a" height="30" width="40" /></a>
-<a href="https://kaggle.com/pranavbankar1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranavbankar1234" height="30" width="40" /></a>
-<a href="https://instagram.com/pranav_bankar.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_bankar.21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pranavba2u96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranavba2u96" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/pranavbankar45">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-bankar-7b290624a">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pranavbankar124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00BFA6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=pranavbankar45&style=for-the-badge&color=20C5F7&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbankar45&show_icons=true&locale=en&layout=compact" alt="pranavbankar45" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbankar45&show_icons=true&locale=en" alt="pranavbankar45" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbankar45&" alt="pranavbankar45" /></p>
+## 👨‍💻 About Me
+
+I'm an Information Technology engineer focused on Java Full Stack Development, backend engineering, and building practical software solutions.
+
+- ☕ Developing applications using Java and Spring Boot.
+- ⚙️ Exploring REST APIs, Hibernate, Spring Data JPA, and Spring Security.
+- 🌐 Building interactive web interfaces with React.js and modern CSS.
+- 🧠 Practicing Data Structures and Algorithms to improve problem-solving.
+- 🛡️ Interested in AI, cybersecurity, graph neural networks, and system design.
+- 🌱 Continuously learning, experimenting, and improving through projects.
+- 🌿 Exploring entrepreneurship through my personal venture, **Bankar Organics**.
+
+> **My philosophy:** Write clean code, understand the fundamentals, and build things that solve real problems.
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,mysql&theme=dark" alt="Java, JavaScript, Python and MySQL"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,maven&theme=dark" alt="Spring, Hibernate, Node.js, Express and Maven"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript&theme=dark" alt="React, HTML, CSS, Tailwind CSS and TypeScript"/>
+</p>
+
+### Databases, Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,idea,vscode&theme=dark" alt="MySQL, PostgreSQL, Git, GitHub, Postman, IntelliJ IDEA and VS Code"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 01 · Restaurant Management System
+
+A full-stack application designed to manage restaurant operations, including menus, table reservations, orders, and user access.
+
+**Key features**
+- Menu and order management.
+- Table reservation workflows.
+- Role-based access and authentication.
+- REST APIs and database integration.
+
+**Tech stack:** Java · Spring Boot · Hibernate · MySQL · React.js
+
+### 02 · THGNN — Lateral Movement Prediction in SOC Data
+
+A graph-based cybersecurity research project exploring how relationships between users, hosts, and processes can help identify potential attacker lateral movement in Security Operations Center data.
+
+**Key focus**
+- Graph-based security event analysis.
+- Temporal and heterogeneous relationships.
+- Potential lateral-movement prediction.
+- Security analytics and visualization.
+
+**Tech stack:** Python · PyTorch · FastAPI · PostgreSQL · Redis · Streamlit
+
+### 03 · Bankar Organics
+
+A personal entrepreneurship venture focused on agricultural value addition, natural food-product ideas, branding, and business development.
+
+**Key focus**
+- Exploring value-added agricultural products.
+- Product and brand development.
+- Connecting agricultural produce with customer needs.
+- Building a long-term business vision.
+
+**Explore:** [Bankar Organics Repository](https://github.com/pranavbankar45/Bankar-Organics.com)
+
+### 04 · Java & DSA Practice
+
+A collection of Java learning exercises and problem-solving practice covering programming fundamentals, collections, object-oriented programming, and algorithms.
+
+**Key focus**
+- Core Java and OOP.
+- Collections and exception handling.
+- Data Structures and Algorithms.
+- Coding practice and problem-solving.
+
+**Note:** Add repository links to the other projects above once their actual GitHub URLs are available.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/pranavbankar45">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavbankar45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=20C5F7&icon_color=9275F5&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/pranavbankar45">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbankar45&layout=compact&hide_border=true&bg_color=0D1117&title_color=20C5F7&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=pranavbankar45&theme=tokyonight&hide_border=true&background=0D1117&ring=20C5F7&fire=9275F5&currStreakLabel=20C5F7" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbankar45&bg_color=0D1117&color=C9D1D9&line=20C5F7&point=9275F5&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranavbankar45&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Java, OOP, Collections, and DSA.
+- Building backend applications with Spring Boot and Hibernate.
+- Improving React.js and frontend development skills.
+- Learning software architecture and system design fundamentals.
+- Developing practical projects and improving code quality.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on Java Full Stack projects, backend applications, and practical software engineering projects.
+
+<p align="center">
+  <a href="https://github.com/pranavbankar45">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/pranav-bankar-7b290624a">LinkedIn</a> ·
+  <a href="mailto:pranavbankar124@gmail.com">Email</a> ·
+  <a href="https://kaggle.com/pranavbankar1234">Kaggle</a> ·
+  <a href="https://instagram.com/pranav_bankar.21">Instagram</a>
+</p>
+
+<div align="center">
+
+### 💻 Build · Learn · Solve · Repeat
+
+*Growing one project, one problem, and one commit at a time.*
+
+</div>
